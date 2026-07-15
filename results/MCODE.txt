@@ -1,0 +1,24 @@
+MCODE App Results
+Date: Jun 27, 2026, 3:11:54 PM
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	26.786	29	375	rpsI, trmD, rplS, rplD, rpmF, prs, rpsK, PA5470, rpsM, rpmJ, tsf, rpoB, rpsP, rpsB, rpoC, rpsL, rpsR, rplU, rplT, rpsF, rpmI, rpmA, PA4463, atpG, obg, rimM, rplI, rpsU, rpmB
+2	14.889	19	134	PA2753, tpiA, PA3572, ccpR, PA4577, PA1789, PA3613, PA3309, adhA, PA1746, arcC, oprG, ackA, ccoP2, arcD, PA4352, PA5475, arcB, PA2119
+3	13.368	20	127	PA0641, PA0622, PA0637, PA0635, PA0628, PA0633, PA0621, atpD, PA0634, PA0636, recA, dnaG, PA0638, rpoD, PA0618, PA0627, PA0614, PA0620, PA0624, PA0629
+4	8.25	9	33	PA0087, PA2537, PA0086, PA0083, PA4489, PA0079, clpV1, PA0088, vgrG1c
+5	8	8	28	nuoH, nuoI, nuoL, nuoK, nuoG, nuoJ, nuoM, nuoF
+6	4	4	6	PA3723, PA4607, PA1041, ldh
+7	4	5	8	lecA, pqsE, pqsB, fabI, pqsD
+8	4	4	6	vqsM, PA2224, PA2225, PA2226
+9	4	4	6	PA1342, ansB, PA1340, ggt
+10	3	3	3	PA4610, PA2501, PA0200
+11	3	3	3	sulA, recN, lexA
+12	3	3	3	pilA, pilP, pilB
+13	3	3	3	PA1029, PA1030, PA0124
+14	3	3	3	cyoE1, PA0112, PA0111
